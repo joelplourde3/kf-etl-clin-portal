@@ -1,6 +1,7 @@
 package bio.ferlab.fhir.etl.request
 
 import bio.ferlab.fhir.etl.config.FhirRequest
+import sttp.client3.UriContext
 import sttp.model.Uri
 
 object RequestUtils {

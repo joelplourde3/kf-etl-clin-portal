@@ -14,7 +14,6 @@ libraryDependencies ++= Seq(
   "software.amazon.awssdk" % "apache-client" % awsVersion,
   "org.slf4j" % "slf4j-api" % slf4jVersion,
   "org.slf4j" % "slf4j-simple" % slf4jVersion,
-  "ca.cdr" % "api-fhirgw-model" % "1.0.0",
   "ca.uhn.hapi.fhir" % "hapi-fhir-client" % fhirVersion,
   "ca.uhn.hapi.fhir" % "hapi-fhir-structures-r4" % fhirVersion,
   "ca.uhn.hapi.fhir" % "org.hl7.fhir.r4" % "5.0.0",
